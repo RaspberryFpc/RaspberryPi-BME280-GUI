@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Pi-BME280-Viewer-FPC.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="91"/>
+        <CursorPos X="19" Y="93"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="bme280.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="BME280"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="342"/>
+        <CursorPos X="64" Y="340"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/include/control.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3611"/>
+        <CursorPos X="27" Y="3623"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/controls.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3614"/>
+        <CursorPos X="41" Y="3623"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="111" Column="20" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="112" Column="20" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="168" Column="20" TopLine="156"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="270" Column="20" TopLine="258"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="272" Column="22" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="111" Column="20" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="112" Column="20" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="168" Column="20" TopLine="156"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="50" Column="14" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="168" Column="18" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="113" Column="3" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="200" Column="26" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="276" Column="25" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="50" Column="21" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="112" Column="42" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="50" Column="3" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="188" Column="19" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="183" Column="55" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="102" Column="19" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="318" TopLine="309"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="322" TopLine="316"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="326" Column="3" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="327" Column="51" TopLine="316"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="330" Column="32" TopLine="322"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="326" Column="44" TopLine="322"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="328" Column="3" TopLine="322"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="331" Column="48" TopLine="322"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="326" Column="27" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="342" Column="69" TopLine="334"/>
+      </Position>
+      <Position>
+        <Filename Value="bme280.pas"/>
+        <Caret Line="8" Column="26"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
