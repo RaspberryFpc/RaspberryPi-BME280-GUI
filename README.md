@@ -1,7 +1,7 @@
 
 # BME280 Free Pascal Driver for Raspberry Pi
 
-This is a Free Pascal driver for the BME280 sensor, which measures temperature, humidity, and air pressure. The driver supports both default and user-configured settings.
+This is a Free Pascal driver for the BME280 sensor that measures temperature, humidity, and air pressure. The driver supports both default and user-configured settings and includes accurate dewpoint calculation.
 
 ![Screenshot](https://github.com/RaspberryPiFpcHub/RaspberryPi-BME280-GUI/blob/main/BME280.png)
 
