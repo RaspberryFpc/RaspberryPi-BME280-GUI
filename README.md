@@ -51,7 +51,7 @@ Dieser Treiber bietet Funktionen zur Interaktion mit dem BME280-Sensor über I2C
 1. Aktivieren Sie I2C auf Ihrem Raspberry Pi (führen Sie `sudo raspi-config` aus, navigieren Sie dann zu `Interfacing Options` → `I2C` und aktivieren Sie es).
 2. Klonen Sie dieses Repository:
    ```bash
-   git clone https://github.com/RaspberryPiFpcHub/BME280-FreePascal-Driver.git
+   git clone https://github.com/RaspberryFpc/BME280-FreePascal-Driver.git
    ```
 3. Fügen Sie die Datei `bme280.pas` zu Ihrem Projekt hinzu.
 
