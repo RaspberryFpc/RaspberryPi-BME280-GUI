@@ -11,14 +11,6 @@ This driver provides functions for interacting with the BME280 sensor via I2C on
 
 ---
 
-# BME280 Free Pascal Treiber für Raspberry Pi
-
-Dies ist ein Free Pascal-Treiber für den BME280-Sensor, der Temperatur, Luftfeuchtigkeit und Luftdruck misst. Der Treiber unterstützt sowohl Standardeinstellungen als auch benutzerdefinierte Konfigurationen.
-
-## 📄 Einführung
-
-Dieser Treiber bietet Funktionen zur Interaktion mit dem BME280-Sensor über I2C auf dem Raspberry Pi. Es werden zwei Initialisierungsmethoden angeboten: eine mit Standardeinstellungen und eine für benutzerdefinierte Konfigurationen.
-
 ## 🛠️ Features
 
 - Supports both I2C addresses `$76` and `$77`.
